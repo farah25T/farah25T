@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👩🏻‍💻 I'm Frayeh</h1>
-<h3 align="center">A passionate Software Engineering student</h3>
+<h3 align="center">A passionate Software Engineering student(I am just a girl 🎀)</h3>
 
 - 🌱 I’m currently learning **more about flutter**
 
